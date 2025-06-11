@@ -42,7 +42,7 @@ namespace AvaApp.Texts {
       string lng = CultureInfo.CurrentUICulture.TwoLetterISOLanguageName;
       string fn = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Texts", "strings." + lng + ".xml");
 
-      if( !File.Exists(fn) ) fn = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Texts", "strings.de.xml");
+      if( !File.Exists(fn) ) fn = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Texts", "strings.en.xml");
       try {
         var xs = new XmlSerializer(typeof(Item[]), new XmlRootAttribute("resources"));
         Item[]? tmp;
