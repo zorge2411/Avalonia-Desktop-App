@@ -1,5 +1,5 @@
 # AvaDeskApp (Avalonia-Desktop-App)
-A portable application for robot mowers from Positec: Worx Landroid, Kress Mission, LanXcape and Ferrex Smartmower.
+A Windows application for robot mowers from Positec: Worx Landroid, Kress Mission, LanXcape and Ferrex Smartmower.
 
 Based on .NETCore-frameworket and packages Avalonia, CS-Script, MessageBox.Avalonia and MQTTnet.
 
