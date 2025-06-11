@@ -64,6 +64,9 @@
     <None Update="Texts\strings.fr.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Update="Texts\strings.da.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
 
   </ItemGroup>
 

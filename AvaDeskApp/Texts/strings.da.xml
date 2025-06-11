@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="mower_error">Fejl</string>
+  <string name="mower_error_battery_low">Lavt batteri</string>
+  <string name="mower_error_battery_charge">Batteriopladningsfejl</string>
+  <string name="mower_error_battery_temp">Batteritemperatur</string>
+  <string name="mower_error_battery_trunk">Batteridæksel åbent</string>
+  <string name="mower_error_blade_motor_fault">Klingemotorfejl</string>
+  <string name="mower_error_close_door_to_cut">Luk låge for at klippe</string>
+  <string name="mower_error_close_to_go_home">Luk for at køre hjem</string>
+  <string name="mower_error_home_find_timeout">Timeout for hjemmesøgning</string>
+  <string name="mower_error_lifted">Klipper løftet</string>
+  <string name="mower_error_lock">Klipper låst</string>
+  <string name="mower_error_outside_wire">Klipper uden for tråd</string>
+  <string name="mower_error_reverse_wire">Omvendt tråd</string>
+  <string name="mower_error_trapped">Klipper fanget</string>
+  <string name="mower_error_trapped_timeout">Timeout fanget</string>
+  <string name="mower_error_upside_down">Klipper på hovedet</string>
+  <string name="mower_error_wheel_motor_fault">Hjulmotorfejl</string>
+  <string name="mower_error_wire_missing">Tråd mangler</string>
+  <string name="mower_error_wire_sync">Trådsignal ude af synk</string>
+
+  <string name="mower_error_blade_height_adjustment">Klippehøjdejustering blokeret</string>
+  <string name="mower_error_charging_station_docking">Fejl ved docking i ladestation</string>
+  <string name="mower_error_excessive_slope">For stejl hældning</string>
+  <string name="mower_error_hbi_error">HBI-fejl</string>
+  <string name="mower_error_insufficient_sensor_data">No Position (Utilstrækkelige sensordata)</string>
+  <string name="mower_error_map_error">Kortfejl</string>
+  <string name="mower_error_missing_charging_station">Ladestation fehlt (Ladestation mangler)</string>
+  <string name="mower_error_ota_error">Fejl ved firmwareopgradering</string>
+  <string name="mower_error_training_start_disallowed">Korttræning start ikke tilladt</string>
+  <string name="mower_error_unreachable_charging_station">Ladestation uden for rækkevidde</string>
+  <string name="mower_error_unreachable_zone">Zone uden for rækkevidde</string>
+
+  <string name="mower_error_calibration_needed">Kalibrering nødvendig</string>
+  <string name="mower_error_camera_error">Kamerafejl</string>
+  <string name="mower_error_camera_lens_dirty">Kameramobil er snavset</string>
+  <string name="mower_error_camera_low_light">Kameralys for svagt</string>
+  <string name="mower_error_headlight_error">Forlygtefejl</string>
+  <string name="mower_error_mapping_exploration_failed">Plæneudforskning mislykkedes</string>
+  <string name="mower_error_mapping_exploration_required">Plæneudforskning påkrævet</string>
+  <string name="mower_error_rfid_reader_error">RFID-læserfejl</string>
+
+  <string name="mower_area_search">Søg område</string>
+  <string name="mower_area_training">Træningsområde</string>
+  <string name="mower_border_cut">Klip kant</string>
+  <string name="mower_charging">Oplader</string>
+  <string name="mower_going_home">Kører hjem</string>
+  <string name="mower_home">Hjem</string>
+  <string name="mower_idle">Manuelt stop</string>
+  <string name="mower_leaving_home">Forlader hjem</string>
+  <string name="mower_mowing">Klipper</string>
+  <string name="mower_pause">Pause</string>
+  <string name="mower_rain_delay">Regnforsinkelse</string>
+  <string name="mower_trapped">Fanget</string>
+
+  <string name="mower_status_completable_map_training">Korttræning (kan fuldføres)</string>
+  <string name="mower_status_firmware_upgrading">Opgraderer firmware</string>
+  <string name="mower_status_map_downloading">Downloader kort</string>
+  <string name="mower_status_map_processing">Behandler kort</string>
+  <string name="mower_status_mower_status_activate_sim">Aktiver SIM</string>
+  <string name="mower_status_mower_status_geo_fence_not_set">Geo-hegn er ikke aktiveret</string>
+  <string name="mower_status_mower_status_missing_setup_location">Opsætningsposition mangler</string>
+  <string name="mower_status_mower_status_out_of_geo_fence">Mission er uden for geo-hegnet</string>
+  <string name="mower_status_mower_status_set_mower_location">Indstil klipperens placering for at aktivere vejrforhold</string>
+  <string name="mower_status_mower_status_sim_activation_error">SIM-aktiveringsfejl</string>
+  <string name="mower_status_mower_status_sim_activation_in_progress">SIM-aktivering i gang</string>
+  <string name="mower_status_mower_status_sim_expired">SIM-kontrakt er udløbet</string>
+  <string name="mower_status_mower_status_weather_info_unavailable">Vejrinfo ikke tilgængelig i øjeblikket</string>
+  <string name="mower_status_mower_status_weather_information_source">Vejrinformation fra OpenWeatherMap</string>
+  <string name="mower_status_not_completable_map_training">Korttræning (kan ikke fuldføres)</string>
+  <string name="mower_status_pending_accessory_activation">%1$s aktivering i gang</string>
+
+  <string name="main_mower">Klipper</string>
+  <string name="main_acc">Konto - log ind eller skift</string>
+  <string name="main_email">E-mail</string>
+  <string name="main_pass">Adgangskode</string>
+  <string name="main_login">Log ind</string>
+  <string name="main_wait">Vent venligst et øjeblik</string>
+
+  <string name="state">Status</string>
+  <string name="state_daywork">Arbejdstider</string>
+  <string name="state_accu">Akku</string>
+  <string name="state_pry">PitchRollYaw</string>
+  <string name="state_blade">Klinge brugstider</string>
+  <string name="state_blade_cmd">Nulstil</string>
+  <string name="state_stat">Statistik</string>
+  <string name="state_stamp">Seneste opdatering</string>
+  <string name="state_start">Start</string>
+  <string name="state_home">Hjem</string>
+  <string name="state_stop">Stop</string>
+  <string name="state_party">Partytilstand</string>
+  <string name="state_edge">Kantklip</string>
+  <string name="state_safe">Sikker hjem</string>
+  <string name="state_poll">Opdater</string>
+
+  <string name="cfg">Konfiguration</string>
+  <string name="cfg_sc">Klippeplan</string>
+  <string name="cfg_sc_dow">Dag</string>
+  <string name="cfg_sc_cut">Kant</string>
+  <string name="cfg_sc_beg">Start</string>
+  <string name="cfg_sc_min">Varighed</string>
+  <string name="cfg_sc_end">Slut</string>
+  <string name="cfg_sc_perc">Korrektion</string>
+  <string name="cfg_mz">Multizoner (startpunkter)</string>
+  <string name="cfg_mz_sp">SP [m]</string>
+  <string name="cfg_mz_perc">Portion</string>
+  <string name="cfg_more">Flere indstillinger</string>
+  <string name="cfg_rain">Regnforsinkelse</string>
+  <string name="cfg_torq">Moment</string>
+  <string name="cfg_save">Gem...</string>
+
+  <string name="act">Aktiviteter</string>
+  <string name="act_stamp">Dato tid</string>
+  <string name="act_state">Status</string>
+  <string name="act_poll">Genkald</string>
+  </resources>
